@@ -6,8 +6,12 @@ Please follow their installation instructions.
 Just an simple inference from the pretrained model. But it works! Below you find a couple of examples:
 
 ![roos_marked](roos_marked.jpg)
+
 ![roos2_marked](roos2_marked.jpg)
+
 ![tako_marked](tako_marked.jpg)
+
+Mark the left shoe!
 ![tako2_marked](tako2_marked.jpg)
 
 
